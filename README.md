@@ -84,5 +84,5 @@ For compiling 80211ping you only need GCC and standard binutils plus libpcap and
 Questions?
 ----------
 
-You can reach me through till <dot> wollenberg <at> uni-rostock <dot> de. Bug reports are welcome. :-)
+You can reach me through till &lt;dot&gt; wollenberg &lt;at&gt; uni-rostock &lt;dot&gt; de. Bug reports are welcome. :-)
 
